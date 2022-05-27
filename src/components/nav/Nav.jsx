@@ -6,6 +6,7 @@ import { AiOutlineMessage } from "react-icons/ai";
 import { AiOutlineUser } from "react-icons/ai";
 import { BiBook } from "react-icons/bi";
 import { RiServiceLine } from "react-icons/ri";
+import { IoRocketOutline } from "react-icons/io5";
 import { useState } from "react";
 
 const Nav = () => {
@@ -13,7 +14,11 @@ const Nav = () => {
 
   return (
     <nav>
-      <a href="#"  onClick={() => setActiveNav("#")} className={activeNav === "#" ? "active " : ""}>
+      <a
+        href="#"
+        onClick={() => setActiveNav("#")}
+        className={activeNav === "#" ? "active " : ""}
+      >
         <AiOutlineHome />
       </a>
       <a
@@ -28,6 +33,13 @@ const Nav = () => {
         onClick={() => setActiveNav("#experience")}
         className={activeNav === "#experience" ? "active " : ""}
       >
+        <IoRocketOutline />
+      </a>
+      <a
+        href="#education"
+        onClick={() => setActiveNav("#education")}
+        className={activeNav === "#education" ? "active " : ""}
+      >
         <BiBook />
       </a>
       <a
@@ -37,6 +49,7 @@ const Nav = () => {
       >
         <RiServiceLine />
       </a>
+
       <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}
