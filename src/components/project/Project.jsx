@@ -10,6 +10,7 @@ import IMG7 from "../../assets/jk.gif";
 import IMG8 from "../../assets/quiz.gif";
 import IMG9 from "../../assets/amazon-blockchain.gif";
 import IMG10 from "../../assets/oldportfolio.gif";
+import IMG11 from "../../assets/news.gif";
 
 const data = [
   {
@@ -37,29 +38,29 @@ const data = [
     id: 4,
     image: IMG4,
     title: "Let's Listen",
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/Daniel-V-Richardson",
+    demo: "https://danielrichardson.netlify.app/workinprogress.html",
   },
   {
     id: 5,
     image: IMG5,
     title: "Evernote Clone (React)",
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/Daniel-V-Richardson",
+    demo: "https://danielrichardson.netlify.app/workinprogress.html",
   },
   {
     id: 6,
     image: IMG6,
     title: "To Do (Android App)",
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/Daniel-V-Richardson",
+    demo: "https://danielrichardson.netlify.app/workinprogress.html",
   },
   {
     id: 7,
     image: IMG7,
     title: "JK Seafoods (MERN APP)",
     github: "https://github.com/Daniel-V-Richardson/jkseafoods",
-    demo: "http://jkseafoods-store.herokuapp.com/",
+    demo: "https://jkseafoods.herokuapp.com/",
   },
   {
     id: 8,
@@ -81,6 +82,13 @@ const data = [
     title: "Old Portfolio (React)",
     github: "https://github.com/Daniel-V-Richardson/danielrichardson.github.io",
     demo: "https://danielrichardson.netlify.app/",
+  },
+  {
+    id: 11,
+    image: IMG11,
+    title: "ADBN News (News Classifier App)",
+    github: "https://github.com/Daniel-V-Richardson/ADBN-Newz",
+    demo: "https://github.com/Daniel-V-Richardson/ADBN-Newz",
   }
 ];
 

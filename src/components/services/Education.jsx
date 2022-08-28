@@ -16,7 +16,7 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-              Currently I Am Studying In 3rd Year, Pursuing My Bachelors In Computer Science & Engineering From Grace College Of Engineering, Tuticorin.</p>
+              Currently I Am Studying In Final Year, Pursuing My Bachelors In Computer Science & Engineering From Grace College Of Engineering, Tuticorin.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />

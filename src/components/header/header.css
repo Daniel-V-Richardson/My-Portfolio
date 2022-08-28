@@ -46,6 +46,13 @@ header {
   overflow: hidden;
   padding: 5rem 1.5rem 1.5rem 1.5rem;
   align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.me img {
+  width: 200%;
+  margin-left: -150px;
+  object-fit: fill;
 }
 
 /* Scroll Down */
@@ -65,6 +72,9 @@ header {
   }
   .me {
     left: calc(50% - 9rem);
+  }
+  .me img {
+    margin-left: -127px;
   }
 }
 
