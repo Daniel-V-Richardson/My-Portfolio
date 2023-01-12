@@ -21,6 +21,7 @@
 .contact__option:hover {
   background: transparent;
   border-color: var(--color-primary-variant);
+  backdrop-filter: blur(5px);
 }
 .contact__option-icon {
   font-size: 1.5rem;
@@ -47,6 +48,7 @@ textarea {
   padding: 1.5rem;
   border-radius: 1rem;
   background: transparent;
+  backdrop-filter: blur(5px);
   border: 2px solid var(--color-primary-variant);
   resize: none;
   color: white;

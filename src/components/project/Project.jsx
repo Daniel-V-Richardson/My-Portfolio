@@ -8,9 +8,14 @@ import IMG5 from "../../assets/evernote.gif";
 import IMG6 from "../../assets/todo.gif";
 import IMG7 from "../../assets/jk.gif";
 import IMG8 from "../../assets/quiz.gif";
-import IMG9 from "../../assets/amazon-blockchain.gif";
+import IMG9 from "../../assets/letzwrite.gif";
 import IMG10 from "../../assets/oldportfolio.gif";
 import IMG11 from "../../assets/news.gif";
+import IMG12 from "../../assets/letzchat.gif";
+import IMG13 from "../../assets/letzread.gif";
+import IMG14 from "../../assets/letzwatch.gif";
+import IMG15 from "../../assets/newzio.gif";
+import IMG16 from "../../assets/markv1.gif";
 
 const data = [
   {
@@ -65,16 +70,16 @@ const data = [
   {
     id: 8,
     image: IMG8,
-    title: "Letz Answer (React Quiz)",
+    title: "LetzAnswer (React Quiz)",
     github: "https://github.com/Daniel-V-Richardson/Quiz-App-React",
-    demo: "https://letsanswerthequiz.herokuapp.com/",
+    demo: "https://letzanswer.vercel.app/",
   },
   {
     id: 9,
     image: IMG9,
-    title: "Amazon Blockchain (Blockchain)",
-    github: "https://github.com/Daniel-V-Richardson/amazon-blockchain",
-    demo: "https://danielrichardson.netlify.app/workinprogress.html",
+    title: "LetzWrite",
+    github: "https://github.com/Daniel-V-Richardson/letzwrite",
+    demo: "https://letzwrite.vercel.app/",
   },
   {
     id: 10,
@@ -89,7 +94,42 @@ const data = [
     title: "ADBN News (News Classifier App)",
     github: "https://github.com/Daniel-V-Richardson/ADBN-Newz",
     demo: "https://github.com/Daniel-V-Richardson/ADBN-Newz",
-  }
+  },
+  {
+    id: 12,
+    image: IMG12,
+    title: "LetzChat (Universal Messenger)",
+    github: "https://github.com/Daniel-V-Richardson/letzchat",
+    demo: "https://github.com/Daniel-V-Richardson/letzchat",
+  },
+  {
+    id: 13,
+    image: IMG13,
+    title: "LetzRead (Blog WebApp)",
+    github: "https://github.com/Daniel-V-Richardson/letzread",
+    demo: "https://letzread-v1.vercel.app/",
+  },
+  {
+    id: 14,
+    image: IMG14,
+    title: "LetzWatch (Watch Youtube Videos For Free)",
+    github: "https://github.com/Daniel-V-Richardson/letzwatch",
+    demo: "https://letzwatch-yt.netlify.app/",
+  },
+  {
+    id: 15,
+    image: IMG15,
+    title: "Newzio (Simple News Application - RAPIDAPI)",
+    github: "https://github.com/Daniel-V-Richardson/Newzio",
+    demo: "https://github.com/Daniel-V-Richardson/Newzio",
+  },
+  {
+    id: 16,
+    image: IMG16,
+    title: "Mark v1 (Coding Assistant)",
+    github: "https://github.com/Daniel-V-Richardson/Coding-Mark",
+    demo: "https://mark-daniel-v-richardson.vercel.app/",
+  },
 ];
 
 const Project = () => {

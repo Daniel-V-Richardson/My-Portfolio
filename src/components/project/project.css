@@ -13,6 +13,7 @@
 .project__item:hover {
   border-color: var(--color-primary-variant);
   background: transparent;
+  backdrop-filter: blur(5px);
 }
 .project__item-image {
   border-radius: 1.5rem;

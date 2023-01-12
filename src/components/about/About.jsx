@@ -35,11 +35,11 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>6+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
           <p>
-            Hi, I Am A Student And Want To Be A Programmer Part Time And Would
+            Hi, I Am A Student And Want to Be A Programmer Who Would
             Love To Work On Some Real World Projects Which Includes Android
             Application Development, Web Development And Some AI/ML Based Python
             Projects.

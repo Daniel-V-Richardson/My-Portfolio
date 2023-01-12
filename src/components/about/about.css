@@ -46,6 +46,7 @@
 
 .about__card:hover {
   background: transparent;
+  backdrop-filter: blur(5px);
   border-color: var(--color-primary-variant);
   cursor: default;
 }
