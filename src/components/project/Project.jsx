@@ -53,7 +53,7 @@ const data = [
     image: IMG10,
     title: "3D Portfolio",
     github: "https://github.com/Daniel-V-Richardson/3dPortfolio",
-    demo: "https://danielichardson.netlify.app/",
+    demo: "https://danielvrichardson.netlify.app/",
   },
   {
     id: 4,
