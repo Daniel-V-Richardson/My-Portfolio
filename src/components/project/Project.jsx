@@ -49,6 +49,13 @@ const data = [
     demo: "https://github.com/Daniel-V-Richardson/Let-s-Note",
   },
   {
+    id: 10,
+    image: IMG10,
+    title: "3D Portfolio",
+    github: "https://github.com/Daniel-V-Richardson/3dPortfolio",
+    demo: "https://danielichardson.netlify.app/",
+  },
+  {
     id: 4,
     image: IMG15,
     title: "Newzio (Simple News Application - RAPIDAPI)",
@@ -83,13 +90,7 @@ const data = [
     github: "https://github.com/Daniel-V-Richardson/letzwrite",
     demo: "https://letzwrite.vercel.app/",
   },
-  {
-    id: 10,
-    image: IMG10,
-    title: "Old Portfolio (React)",
-    github: "https://github.com/Daniel-V-Richardson/danielrichardson.github.io",
-    demo: "https://danielrichardson.netlify.app/",
-  },
+  
   {
     id: 7,
     image: IMG7,
