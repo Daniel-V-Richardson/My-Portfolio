@@ -16,22 +16,30 @@ import IMG13 from "../../assets/letzread.gif";
 import IMG14 from "../../assets/letzwatch.gif";
 import IMG15 from "../../assets/newzio.gif";
 import IMG16 from "../../assets/markv1.gif";
+import IMG17 from "../../assets/imagine.gif";
 
 const data = [
   {
-    id: 16,
-    image: IMG16,
-    title: "Mark v1 (Coding Assistant)",
-    github: "https://github.com/Daniel-V-Richardson/Coding-Mark",
-    demo: "https://mark-daniel-v-richardson.vercel.app/",
-    
+    id: 17,
+    image: IMG17,
+    title: "Imagine (An Free AI image generation tool and sharing platform)",
+    github: "https://github.com/Daniel-V-Richardson/Imagine",
+    demo: "https://imagine-puce.vercel.app/",
   },
+
   {
     id: 14,
     image: IMG14,
     title: "LetzWatch (Watch Youtube Videos For Free)",
     github: "https://github.com/Daniel-V-Richardson/letzwatch",
     demo: "https://letzwatch-yt.netlify.app/",
+  },
+  {
+    id: 16,
+    image: IMG16,
+    title: "Mark v1 (Coding Assistant)",
+    github: "https://github.com/Daniel-V-Richardson/Coding-Mark",
+    demo: "https://mark-daniel-v-richardson.vercel.app/",
   },
   {
     id: 3,
@@ -46,15 +54,6 @@ const data = [
     title: "Newzio (Simple News Application - RAPIDAPI)",
     github: "https://github.com/Daniel-V-Richardson/Newzio",
     demo: "https://github.com/Daniel-V-Richardson/Newzio",
-    
-  },
-  {
-    id: 5,
-    image: IMG12,
-    title: "LetzChat (Universal Messenger)",
-    github: "https://github.com/Daniel-V-Richardson/letzchat",
-    demo: "https://github.com/Daniel-V-Richardson/letzchat",
-    
   },
   {
     id: 6,
@@ -62,14 +61,13 @@ const data = [
     title: "LetzRead (Blog WebApp)",
     github: "https://github.com/Daniel-V-Richardson/letzread",
     demo: "https://letzread-v1.vercel.app/",
-    
   },
   {
-    id: 7,
-    image: IMG7,
-    title: "JK Seafoods (MERN APP)",
-    github: "https://github.com/Daniel-V-Richardson/jkseafoods",
-    demo: "https://jkseafoods.herokuapp.com/",
+    id: 5,
+    image: IMG12,
+    title: "LetzChat (Universal Messenger)",
+    github: "https://github.com/Daniel-V-Richardson/letzchat",
+    demo: "https://github.com/Daniel-V-Richardson/letzchat",
   },
   {
     id: 8,
@@ -91,6 +89,13 @@ const data = [
     title: "Old Portfolio (React)",
     github: "https://github.com/Daniel-V-Richardson/danielrichardson.github.io",
     demo: "https://danielrichardson.netlify.app/",
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: "JK Seafoods (MERN APP)",
+    github: "https://github.com/Daniel-V-Richardson/jkseafoods",
+    demo: "https://jkseafoods.herokuapp.com/",
   },
   {
     id: 11,
