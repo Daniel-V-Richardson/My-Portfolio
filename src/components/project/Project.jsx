@@ -17,8 +17,18 @@ import IMG14 from "../../assets/letzwatch.gif";
 import IMG15 from "../../assets/newzio.gif";
 import IMG16 from "../../assets/markv1.gif";
 import IMG17 from "../../assets/imagine.gif";
+import IMG18 from "../../assets/messenger.gif";
+import IMG19 from "../../assets/voice-assistant.gif";
 
 const data = [
+  {
+    id: 18,
+    image: IMG18,
+    title:
+      "Messenger V1 (An Real-time Chat Webapp with Group and Stand Alone Chats)",
+    github: "https://github.com/Daniel-V-Richardson/messenger-v1",
+    demo: "https://messenger-v1.vercel.app/",
+  },
   {
     id: 17,
     image: IMG17,
@@ -42,11 +52,18 @@ const data = [
     demo: "https://mark-daniel-v-richardson.vercel.app/",
   },
   {
-    id: 3,
-    image: IMG3,
-    title: "Let's Note (Android App)",
-    github: "https://github.com/Daniel-V-Richardson/Let-s-Note",
-    demo: "https://github.com/Daniel-V-Richardson/Let-s-Note",
+    id: 19,
+    image: IMG19,
+    title: "John (Virtual Voice Assistant integrated with ChatGPT)",
+    github: "https://github.com/Daniel-V-Richardson/chatgpt_voice_assistant",
+    demo: "https://www.youtube.com/watch?v=cRSLxePDmbA",
+  },
+  {
+    id: 6,
+    image: IMG13,
+    title: "LetzRead (Blog WebApp)",
+    github: "https://github.com/Daniel-V-Richardson/letzread",
+    demo: "https://letzread-v1.vercel.app/",
   },
   {
     id: 10,
@@ -62,19 +79,20 @@ const data = [
     github: "https://github.com/Daniel-V-Richardson/Newzio",
     demo: "https://github.com/Daniel-V-Richardson/Newzio",
   },
+
   {
-    id: 6,
-    image: IMG13,
-    title: "LetzRead (Blog WebApp)",
-    github: "https://github.com/Daniel-V-Richardson/letzread",
-    demo: "https://letzread-v1.vercel.app/",
+    id: 3,
+    image: IMG3,
+    title: "Let's Note (Android App)",
+    github: "https://github.com/Daniel-V-Richardson/Let-s-Note",
+    demo: "https://github.com/Daniel-V-Richardson/Let-s-Note",
   },
   {
     id: 5,
     image: IMG12,
     title: "LetzChat (Universal Messenger)",
     github: "https://github.com/Daniel-V-Richardson/letzchat",
-    demo: "https://github.com/Daniel-V-Richardson/letzchat",
+    demo: "https://letzchat-v1.vercel.app/login",
   },
   {
     id: 8,
@@ -90,7 +108,7 @@ const data = [
     github: "https://github.com/Daniel-V-Richardson/letzwrite",
     demo: "https://letzwrite.vercel.app/",
   },
-  
+
   {
     id: 7,
     image: IMG7,
