@@ -77,7 +77,7 @@ const data = [
     image: IMG15,
     title: "Newzio (Simple News Application - RAPIDAPI)",
     github: "https://github.com/Daniel-V-Richardson/Newzio",
-    demo: "https://github.com/Daniel-V-Richardson/Newzio",
+    demo: "https://www.youtube.com/watch?v=tWbdVOZEuKc&t=152s",
   },
 
   {
