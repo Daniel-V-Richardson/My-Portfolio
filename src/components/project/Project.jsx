@@ -19,8 +19,24 @@ import IMG16 from "../../assets/markv1.gif";
 import IMG17 from "../../assets/imagine.gif";
 import IMG18 from "../../assets/messenger.gif";
 import IMG19 from "../../assets/voice-assistant.gif";
+import IMG20 from "../../assets/smartbrief.gif";
+import IMG21 from "../../assets/devjobz.gif";
 
 const data = [
+  {
+    id: 20,
+    image: IMG20,
+    title: "SmartBrief (An AI Article Summarizer tool)",
+    github: "https://github.com/Daniel-V-Richardson/SmartBrief",
+    demo: "https://smart-brief-chi.vercel.app/",
+  },
+  {
+    id: 21,
+    image: IMG21,
+    title: "DevJobz (A Job Portal For Developers)",
+    github: "https://github.com/Daniel-V-Richardson/DevJobz",
+    demo:"https://github.com/Daniel-V-Richardson/DevJobz/releases/tag/DevJobz",
+  },
   {
     id: 18,
     image: IMG18,
