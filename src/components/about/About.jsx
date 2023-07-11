@@ -39,8 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hi, I Am A Student And Want to Be A Programmer Who Would
-            Love To Work On Some Real World Projects Which Includes Android
+            Hi, I am a FullStack Developer Who Would Love To Work On Some Real World Projects Which Includes Android
             Application Development, Web Development And Some AI/ML Based Python
             Projects.
           </p>
